@@ -67,61 +67,6 @@ A tabela abaixo será atualizada conforme novos artigos forem publicados.
 | 09/02/2026 | CodeVerse2026                          | LinkedIn   | <img src="" width="100" height="60"/>                   | [🔗 CodeVerse2026]()                                                                                                                                                                 |
 | 23/02/2026 | CodeVerse2026                          | LinkedIn   | <img src="" width="100" height="60"/>                   | [🔗 CodeVerse2026]()                                                                                                                                                                 |
 
-## 📚 Artigos Publicados
-
-<details>
-<summary><b>Ver todos os artigos publicados</b></summary>
-
-<br>
-
-<div align="center">
-
-<table>
-	<tr>
-		<th>Data</th>
-		<th>Título</th>
-		<th>Plataforma</th>
-		<th>Capa</th>
-		<th>Link</th>
-		<th>Resumo</th>
-	</tr>
-	<tr>
-		<td>12/01/2026</td>
-		<td>Apresentação do CodeVerse2026</td>
-		<td>LinkedIn</td>
-		<td><img src="./capas/capa01.png" width="80" height="50"/></td>
-		<td>[link](https://www.linkedin.com/pulse/codeverse2026-um-novo-cap%C3%ADtulo-da-minha-jornada-em-tech-cgs-1rv2f/?trackingId=EjIiUwI%2BQzvI%2FA0Ssc7TaQ%3D%3D)</td>
-		<td>Visão geral do projeto, objetivos e convite à jornada.</td>
-	</tr>
-	<tr>
-		<td>26/01/2026</td>
-		<td>Atualização e Refatoração do Portfólio</td>
-		<td>LinkedIn</td>
-		<td><img src="./capas/capa02.png" width="80" height="50"/></td>
-		<td>[link](https://www.linkedin.com/pulse/renovei-meu-portf%C3%B3lio-da-est%C3%A9tica-ao-pensamento-de-produto-cgs-cddwf/?trackingId=2VBC%2FArdW%2BbVVsZ8a%2FgGqw%3D%3D)</td>
-		<td>Como repensei o portfólio, do visual à estratégia de produto.</td>
-	</tr>
-	<tr>
-		<td>09/02/2026</td>
-		<td>Projeto World War</td>
-		<td>LinkedIn</td>
-		<td><!-- Capa não definida --></td>
-		<td>Em breve</td>
-		<td>Estudo de caso sobre desenvolvimento de projeto real.</td>
-	</tr>
-	<tr>
-		<td>23/02/2026</td>
-		<td>CodeVerse2026</td>
-		<td>LinkedIn</td>
-		<td><!-- Capa não definida --></td>
-		<td>Em breve</td>
-		<td>Reflexão sobre evolução contínua em tecnologia.</td>
-	</tr>
-</table>
-
-</div>
-
-</details>
 
 ## 🧑‍💻 Para quem é este projeto?
 
@@ -168,3 +113,4 @@ Obrigado por acompanhar! Se gostou, compartilhe e participe. Sua interação faz
 - Compartilhar projetos reais, refatorações e decisões técnicas
 - Criar um histórico organizado e acessível dos artigos publicados
 - Ajudar desenvolvedores juniores e pessoas em transição de carreira
+
