@@ -58,6 +58,8 @@ Cada edição pode ser:
 
 ## 📚 Artigos Publicados
 
+<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7285111960604434433" target="_blank">Assinar no LinkedIn</a>
+
 A tabela abaixo será atualizada conforme novos artigos forem publicados.
 
 | Data       | Título do Artigo                       | Plataforma | Capa                                                    | Link                                                                                                                                                                                 |
@@ -113,4 +115,5 @@ Obrigado por acompanhar! Se gostou, compartilhe e participe. Sua interação faz
 - Compartilhar projetos reais, refatorações e decisões técnicas
 - Criar um histórico organizado e acessível dos artigos publicados
 - Ajudar desenvolvedores juniores e pessoas em transição de carreira
+
 
