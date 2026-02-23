@@ -67,9 +67,9 @@ A tabela abaixo será atualizada conforme novos artigos forem publicados.
 | 12/01/2026 | Apresentação do CodeVerse2026          | LinkedIn   | <img src="./capas/capa01.png" width="100" height="60"/> | [🔗Link do Artigo 01](https://www.linkedin.com/pulse/codeverse2026-um-novo-cap%C3%ADtulo-da-minha-jornada-em-tech-cgs-1rv2f/?trackingId=EjIiUwI%2BQzvI%2FA0Ssc7TaQ%3D%3D)            |
 | 26/01/2026 | Atualização e Refatoração do Portfólio | LinkedIn   | <img src="./capas/capa02.png" width="100" height="60"/> | [🔗 Link do Artigo 02](https://www.linkedin.com/pulse/renovei-meu-portf%C3%B3lio-da-est%C3%A9tica-ao-pensamento-de-produto-cgs-cddwf/?trackingId=2VBC%2FArdW%2BbVVsZ8a%2FgGqw%3D%3D) |
 | 09/02/2026 | 🎮Voltei num projeto de 2017 e finalizei um jogo completo em 3 dias (offline + online)  | LinkedIn   | <img src="./capas/capa03.png" width="100" height="60"/>                   | [🔗 Link do Artigo 03](https://www.linkedin.com/posts/carlos-cgs_programacao-desenvolvimentoweb-devjunior-activity-7426580731910578176-M3HY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)                               |
-| 23/02/2026 | Gênios Game - Programando com IA é como montar os Vingadores (e alguém precisa liderar o time) | LinkedIn   | <img src="./capas/capa04.png" width="100" height="60"/>  | [🔗 CodeVerse2026](https://www.linkedin.com/pulse/gênios-game-programando-com-ia-é-como-montar-os-vingadores-cgs-a5jyf/?trackingId=djQDOwJgPgO6DcpvaetFRw%3D%3D)           |
-| 09/03/2026 | CodeVerse2026                          | LinkedIn   | <img src="" width="100" height="60"/>                   | [🔗 CodeVerse2026]()     |
-| 23/03/2026 | CodeVerse2026                          | LinkedIn   | <img src="" width="100" height="60"/>                   | [🔗 CodeVerse2026]()     |
+| 23/02/2026 | Gênios Game - Programando com IA é como montar os Vingadores (e alguém precisa liderar o time) | LinkedIn   | <img src="./capas/capa04.png" width="100" height="60"/>  | [🔗 Kink do Artigo 04](https://www.linkedin.com/pulse/gênios-game-programando-com-ia-é-como-montar-os-vingadores-cgs-a5jyf/?trackingId=djQDOwJgPgO6DcpvaetFRw%3D%3D)           |
+| 09/03/2026 | CodeVerse2026                          | LinkedIn   | <img src="" width="100" height="60"/>                   | [🔗 Link do Artigo 05]()     |
+| 23/03/2026 | CodeVerse2026                          | LinkedIn   | <img src="" width="100" height="60"/>                   | [🔗 Link do Artigo 06]()     |
 
 
 
@@ -119,6 +119,7 @@ Obrigado por acompanhar! Se gostou, compartilhe e participe. Sua interação faz
 - Compartilhar projetos reais, refatorações e decisões técnicas
 - Criar um histórico organizado e acessível dos artigos publicados
 - Ajudar desenvolvedores juniores e pessoas em transição de carreira
+
 
 
 
