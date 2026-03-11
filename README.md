@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a href="https://github.com/Carlos-CGS/CodeVerse2026"><img src="https://img.shields.io/github/stars/Carlos-CGS/CodeVerse2026?style=flat-square" alt="GitHub stars"></a>
-	<img src="https://img.shields.io/badge/Artigos%20Publicados-2-blueviolet?style=flat-square" alt="Artigos Publicados">
+	<img src="https://img.shields.io/badge/Artigos%20Publicados-5-blueviolet?style=flat-square" alt="Artigos Publicados">
 	<img src="https://img.shields.io/badge/Licença-MIT-green?style=flat-square" alt="Licença">
 </p>
 
@@ -119,6 +119,7 @@ Obrigado por acompanhar! Se gostou, compartilhe e participe. Sua interação faz
 - Compartilhar projetos reais, refatorações e decisões técnicas
 - Criar um histórico organizado e acessível dos artigos publicados
 - Ajudar desenvolvedores juniores e pessoas em transição de carreira
+
 
 
 
