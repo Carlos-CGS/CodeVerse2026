@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a href="https://github.com/Carlos-CGS/CodeVerse2026"><img src="https://img.shields.io/github/stars/Carlos-CGS/CodeVerse2026?style=flat-square" alt="GitHub stars"></a>
-	<img src="https://img.shields.io/badge/Artigos%20Publicados-5-blueviolet?style=flat-square" alt="Artigos Publicados">
+	<img src="https://img.shields.io/badge/Artigos%20Publicados-6-blueviolet?style=flat-square" alt="Artigos Publicados">
 	<img src="https://img.shields.io/badge/Licença-MIT-green?style=flat-square" alt="Licença">
 </p>
 
@@ -68,8 +68,10 @@ A tabela abaixo será atualizada conforme novos artigos forem publicados.
 | 26/01/2026 | Atualização e Refatoração do Portfólio | LinkedIn   | <img src="./capas/capa02.png" width="100" height="60"/> | [🔗 Link do Artigo 02](https://www.linkedin.com/pulse/renovei-meu-portf%C3%B3lio-da-est%C3%A9tica-ao-pensamento-de-produto-cgs-cddwf/?trackingId=2VBC%2FArdW%2BbVVsZ8a%2FgGqw%3D%3D) |
 | 09/02/2026 | 🎮Voltei num projeto de 2017 e finalizei um jogo completo em 3 dias (offline + online)  | LinkedIn   | <img src="./capas/capa03.png" width="100" height="60"/>                   | [🔗 Link do Artigo 03](https://www.linkedin.com/posts/carlos-cgs_programacao-desenvolvimentoweb-devjunior-activity-7426580731910578176-M3HY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)                               |
 | 23/02/2026 | Gênios Game - Programando com IA é como montar os Vingadores (e alguém precisa liderar o time) | LinkedIn   | <img src="./capas/capa04.png" width="100" height="60"/>  | [🔗 Kink do Artigo 04](https://www.linkedin.com/pulse/gênios-game-programando-com-ia-é-como-montar-os-vingadores-cgs-a5jyf/?trackingId=djQDOwJgPgO6DcpvaetFRw%3D%3D)           |
-| 09/03/2026 | 🌌README Não é Detalhe: Como Transformar Código em Produto no GitHub | LinkedIn   | <img src="./capas/capa05.png" width="100" height="60"/> | [🔗 Link do Artigo 05](https://www.linkedin.com/pulse/readme-não-é-detalhe-como-transformar-código-em-produto-cgs-oxhxf/) |
-| 23/03/2026 | CodeVerse2026                          | LinkedIn   | <img src="" width="100" height="60"/>                   | [🔗 Link do Artigo 06]()     |
+| 09/03/2026 | 🌌README Não é Detalhe: Como Transformar Código em Produto no GitHub | LinkedIn | <img src="./capas/capa05.png" width="100" height="60"/> | [🔗 Link do Artigo 05](https://www.linkedin.com/pulse/readme-não-é-detalhe-como-transformar-código-em-produto-cgs-oxhxf/) |
+| 23/03/2026 | 🎮 Como Usei IA para Criar um Jogo para Minhas Filhas em um Domingo Chuvoso | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-python-gamedev-activity-7439249133665914880-i9ZL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa06.png" width="100" height="60"/> | [🔗 Link do Artigo 06](https://www.linkedin.com/pulse/como-usei-ia-para-criar-um-jogo-minhas-filhas-em-domingo-cgs-xbrsf/) |
+| 09/04/2026 | CODEVERSE 2026 | LinkedIn | <img src="" width="100" height="60"/> | [🔗 Link do Artigo 07]() |
+| 23/04/2026 | CODEVRESE 2026 | LinkedIn | <img src="" width="100" height="60"/> | [🔗 Link do Artigo 08]() |
 
 
 
