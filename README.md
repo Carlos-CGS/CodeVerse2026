@@ -72,8 +72,8 @@ A tabela abaixo será atualizada conforme novos artigos forem publicados.
 | 23/03/2026 | 🎮 Como Usei IA para Criar um Jogo para Minhas Filhas em um Domingo Chuvoso | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-python-gamedev-activity-7439249133665914880-i9ZL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa06.png" width="100" height="60"/> | [🔗 Link do Artigo 06](https://www.linkedin.com/pulse/como-usei-ia-para-criar-um-jogo-minhas-filhas-em-domingo-cgs-xbrsf/) |
 | 06/04/2026 | 🌍E se a criação do mundo fosse um sistema?Uma visão Dev. sobre Gênesis! | [POST](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-devlife-programaaexaeto-activity-7444352626214973441-CXuu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa7.png" width="100" height="60"/> | [🔗 Link do Artigo 07](https://www.linkedin.com/pulse/e-se-criação-do-mundo-fosse-um-sistemauma-visão-dev-sobre-cgs-z8gzf/?trackingId=lFgTPO3YMswxeilufQE8yA%3D%3D) |
 | 20/04/2026 | 📈Portfólio nunca está pronto: como evoluí o meu usando IA + prática real | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_fala-galera-dev-depois-de-mais-activity-7449396023715876864-D9Ft?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa08.png" width="100" height="60"/> | [🔗 Link do Artigo 08](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-carloscgs-programaaexaeto-activity-7451932751005442048-J1vu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) |
-| 20/04/2026 | CODEVRESE 2026 | LinkedIn | <img src="" width="100" height="60"/> | [🔗 Link do Artigo 08]() |
-| 20/04/2026 | CODEVRESE 2026 | LinkedIn | <img src="" width="100" height="60"/> | [🔗 Link do Artigo 08]() |
+| 04/05/2026 | CODEVRESE 2026 | LinkedIn | <img src="" width="100" height="60"/> | [🔗 Link do Artigo 08]() |
+| 18/05/2026 | CODEVRESE 2026 | LinkedIn | <img src="" width="100" height="60"/> | [🔗 Link do Artigo 08]() |
 
 
 
