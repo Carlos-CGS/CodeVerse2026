@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a href="https://github.com/Carlos-CGS/CodeVerse2026"><img src="https://img.shields.io/github/stars/Carlos-CGS/CodeVerse2026?style=flat-square" alt="GitHub stars"></a>
-	<img src="https://img.shields.io/badge/Artigos%20Publicados-6-blueviolet?style=flat-square" alt="Artigos Publicados">
+	<img src="https://img.shields.io/badge/Artigos%20Publicados-8-blueviolet?style=flat-square" alt="Artigos Publicados">
 	<img src="https://img.shields.io/badge/Licença-MIT-green?style=flat-square" alt="Licença">
 </p>
 
@@ -71,8 +71,9 @@ A tabela abaixo será atualizada conforme novos artigos forem publicados.
 | 09/03/2026 | 🌌README Não é Detalhe: Como Transformar Código em Produto no GitHub | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_organizando-o-readme-do-github-na-pr%C3%A1tica-activity-7434175793678942208-yone?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa05.png" width="100" height="60"/> | [🔗 Link do Artigo 05](https://www.linkedin.com/pulse/readme-não-é-detalhe-como-transformar-código-em-produto-cgs-oxhxf/) |
 | 23/03/2026 | 🎮 Como Usei IA para Criar um Jogo para Minhas Filhas em um Domingo Chuvoso | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-python-gamedev-activity-7439249133665914880-i9ZL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa06.png" width="100" height="60"/> | [🔗 Link do Artigo 06](https://www.linkedin.com/pulse/como-usei-ia-para-criar-um-jogo-minhas-filhas-em-domingo-cgs-xbrsf/) |
 | 06/04/2026 | 🌍E se a criação do mundo fosse um sistema?Uma visão Dev. sobre Gênesis! | [POST](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-devlife-programaaexaeto-activity-7444352626214973441-CXuu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa7.png" width="100" height="60"/> | [🔗 Link do Artigo 07](https://www.linkedin.com/pulse/e-se-criação-do-mundo-fosse-um-sistemauma-visão-dev-sobre-cgs-z8gzf/?trackingId=lFgTPO3YMswxeilufQE8yA%3D%3D) |
+| 20/04/2026 | 📈Portfólio nunca está pronto: como evoluí o meu usando IA + prática real | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_fala-galera-dev-depois-de-mais-activity-7449396023715876864-D9Ft?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa08.png" width="100" height="60"/> | [🔗 Link do Artigo 08](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-carloscgs-programaaexaeto-activity-7451932751005442048-J1vu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) |
 | 20/04/2026 | CODEVRESE 2026 | LinkedIn | <img src="" width="100" height="60"/> | [🔗 Link do Artigo 08]() |
-
+| 20/04/2026 | CODEVRESE 2026 | LinkedIn | <img src="" width="100" height="60"/> | [🔗 Link do Artigo 08]() |
 
 
 
