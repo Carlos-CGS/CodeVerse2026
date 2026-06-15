@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a href="https://github.com/Carlos-CGS/CodeVerse2026"><img src="https://img.shields.io/github/stars/Carlos-CGS/CodeVerse2026?style=flat-square" alt="GitHub stars"></a>
-	<img src="https://img.shields.io/badge/Artigos%20Publicados-10-blueviolet?style=flat-square" alt="Artigos Publicados">
+	<img src="https://img.shields.io/badge/Artigos%20Publicados-12-blueviolet?style=flat-square" alt="Artigos Publicados">
 	<img src="https://img.shields.io/badge/Licença-MIT-green?style=flat-square" alt="Licença">
 </p>
 
@@ -75,7 +75,7 @@ A tabela abaixo será atualizada conforme novos artigos forem publicados.
 | 04/05/2026 | 🎮Do Local ao Mundo Real: Como coloquei meu jogo WorldWar online🌐 | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_programaaexaeto-gamedev-desenvolvimentodejogos-activity-7455918959096131584-OuFQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa09.png" width="100" height="60"/> | [🔗 Link do Artigo 09](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-desenvolvimentoweb-carloscgs-activity-7457006115688431617-kN4e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) |
 | 18/05/2026 | 🎮 Criando um jogo retrô para minhas filhas com HTML, CSS, JavaScript e IA | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_fala-galera-dev-dessa-vez-o-projeto-activity-7459542822652665856-1VhA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa10.png" width="100" height="60"/> | [🔗 Link do Artigo 10](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-carloscgs-gamedev-ugcPost-7459617794154737664-lvdt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) |
 | 01/06/2026 | 🏢 Transformando a Gestão de Condomínios: Por Dentro do Projeto Portaria Digital | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_fala-galera-dev-dessa-vez-vou-mostrar-ugcPost-7462932853807525888-L5mQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa11.png" width="100" height="60"/> | [🔗 Link do Artigo 11](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-portariadigital-desenvolvimentoweb-ugcPost-7465748560945500160-ZePI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) |
-| 15/06/2026 | CODEVERSE 2026 | [VIDEO]() | <img src="./capas/capa.png" width="100" height="60"/> | [🔗 Link do Artigo 12]() |
+| 15/06/2026 | 🌐 Meu Primeiro Site Profissional: Como Desenvolvi o Novo Site do Grupo Guardião | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_fala-galera-dev-esse-foi-o-primeiro-activity-7469689765487898624-iWcC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa.png" width="100" height="60"/> | [🔗 Link do Artigo 12](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-desenvolvimentoweb-webdeveloper-ugcPost-7470147862992052224-sgYM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) |
 | 29/06/2026 | CODEVERSE 2026 | [VIDEO]() | <img src="./capas/capa.png" width="100" height="60"/> | [🔗 Link do Artigo 13]() |
 
 ## 🧑‍💻 Para quem é este projeto?
