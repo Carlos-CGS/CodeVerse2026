@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a href="https://github.com/Carlos-CGS/CodeVerse2026"><img src="https://img.shields.io/github/stars/Carlos-CGS/CodeVerse2026?style=flat-square" alt="GitHub stars"></a>
-	<img src="https://img.shields.io/badge/Artigos%20Publicados-14-blueviolet?style=flat-square" alt="Artigos Publicados">
+	<img src="https://img.shields.io/badge/Artigos%20Publicados-15-blueviolet?style=flat-square" alt="Artigos Publicados">
 	<img src="https://img.shields.io/badge/Licença-MIT-green?style=flat-square" alt="Licença">
 </p>
 
@@ -78,7 +78,9 @@ A tabela abaixo será atualizada conforme novos artigos forem publicados.
 | 15/06/2026 | 🌐 Meu Primeiro Site Profissional: Como Desenvolvi o Novo Site do Grupo Guardião | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_fala-galera-dev-esse-foi-o-primeiro-activity-7469689765487898624-iWcC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa12.png" width="100" height="60"/> | [🔗 Link do Artigo 12](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-desenvolvimentoweb-webdeveloper-ugcPost-7470147862992052224-sgYM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) |
 | 29/06/2026 | 🚀 Deixando a Síndrome do Impostor para Trás: Como um Projeto da Faculdade Me Fez Enxergar que Eu Também Posso Criar | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_fala-galera-dev-no-pr%C3%B3ximo-dia-activity-7474763161917722624-XrbC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa13.png" width="100" height="60"/> | [🔗 Link do Artigo 13](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-desenvolvimentodesoftware-codeverse-activity-7477299849734852609-regv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) |
 | 13/07/2026 | ⚽ Às vezes o maior erro de um projeto não está no código... está no tempo. | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_fala-galera-dev-hoje-estou-compartilhando-activity-7478749405249036288-2ZTK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa14.png" width="100" height="60"/> | [🔗 Link do Artigo 14](https://www.linkedin.com/pulse/às-vezes-o-maior-erro-de-um-projeto-não-está-código-tempo-cgs-wgsvf/?trackingId=QNWAb2gBQsKsOqJg161pFg%3D%3D) |
-| 27/07/2026 | CODEVERSE 2026 | [VIDEO]() | <img src="./capas/capa15.png" width="100" height="60"/> | [🔗 Link do Artigo 15]() |
+| 27/07/2026 | 🏢 Criando uma Landing Page que vende uma ideia, não apenas um sistema | [VIDEO](https://www.linkedin.com/posts/carlos-cgs_fala-galera-dev-no-dia-27072026-activity-7484909984032665600-faRE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) | <img src="./capas/capa15.png" width="100" height="60"/> | [🔗 Link do Artigo 15](https://www.linkedin.com/posts/carlos-cgs_codeverse2026-uniguardiao-universidadecorporativa-ugcPost-7485028234452201473-_Trn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI) |
+| 10/08/2026 | CODEVERSE 2026 | [VIDEO]() | <img src="./capas/capa15.png" width="100" height="60"/> | [🔗 Link do Artigo 16]() |
+| 24/08/2026 | CODEVERSE 2026 | [VIDEO]() | <img src="./capas/capa15.png" width="100" height="60"/> | [🔗 Link do Artigo 17]() |
 
 ## 🧑‍💻 Para quem é este projeto?
 
