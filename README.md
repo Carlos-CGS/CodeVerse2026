@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a href="https://github.com/Carlos-CGS/CodeVerse2026"><img src="https://img.shields.io/github/stars/Carlos-CGS/CodeVerse2026?style=flat-square" alt="GitHub stars"></a>
-	<img src="https://img.shields.io/badge/Artigos%20Publicados-15-blueviolet?style=flat-square" alt="Artigos Publicados">
+	<img src="https://img.shields.io/badge/Artigos%20Publicados-16-blueviolet?style=flat-square" alt="Artigos Publicados">
 	<img src="https://img.shields.io/badge/Licença-MIT-green?style=flat-square" alt="Licença">
 </p>
 
